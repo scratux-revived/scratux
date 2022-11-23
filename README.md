@@ -3,7 +3,7 @@ Scratux is a block-based visual programming language targeted primarily at child
 
 Basically Scratux is a simple project that aims to provide Free/Libre Open Source Linux binaries of Scratch Desktop. Since the official Scratch project does not provide binaries for Linux distributions, we created this project so you do not have to download + build from source. Just click and install it.
 
-Scratux is built-in different languages and is always based on the latest stable Scratch Desktop release. Currently it is fetching Scratch Desktop 3.10.2
+Scratux is built-in different languages and is always based on the latest stable Scratch Desktop release. Currently it is fetching Scratch Desktop 3.29.1
 
 ![Screenshot](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/window_OLzR3hd.png)
 
@@ -44,14 +44,11 @@ or build it by:
 ```sh
 ./build.sh
 ```
-[More info in the wiki](https://github.com/scratux/scratux/wiki/Development)
+[More info in the wiki](https://github.com/scratux-revived/scratux/wiki/Development)
 
 Get Involved
 ----
 * Test, report bugs and request new features. 
-* Help translating Scratux using [our web interface](https://poeditor.com/join/project/ONVBkRVtur).
-* Support the project by making a donation [via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G6SYNUVY4ZUPW&source=url). This helps us to cover domain, email and development costs.
-
 
 License
 ----
